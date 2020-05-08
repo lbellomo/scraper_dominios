@@ -12,8 +12,7 @@ from bs4 import BeautifulSoup
 def download_domains(date: str):
     """Download all doamins for a date."""
     items = []
-
-    data = posible_dates[-1]
+    
     pag = 1
     more_data = True
 
