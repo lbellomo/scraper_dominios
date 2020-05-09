@@ -16,3 +16,6 @@ You have to install the dependencies every time you run the action (which can be
 
 The [maximum size](https://help.github.com/en/github/managing-large-files/what-is-my-disk-quota#file-and-repository-size-limitations) of the repo (with the whole story) is 100 GB and a file is 100 MB.
 
+## TODO
+- [ ]: Scrape old domains.
+
