@@ -2,8 +2,9 @@ name: Scraper Dominios
 
 on:
   schedule:
-    - cron: 0 17 * * *  
-  branches:
+    - cron: 0 17 * * *  #  Runs at 17:00 UTC every day 
+  push:
+    branches:
       - master
 
 jobs:
